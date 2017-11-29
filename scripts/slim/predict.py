@@ -10,7 +10,7 @@ from preprocessing import inception_preprocessing
 from os import listdir
 from os.path import isfile, join
 from os import walk
-
+#os.environ['CUDA_VISIBLE_DEVICES'] = '' #Uncomment this line to run prediction on CPU.
 session = tf.Session()
 
 def get_test_images(mypath):

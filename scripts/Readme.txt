@@ -31,6 +31,8 @@ $ python predict.py v1 ../result/ ../../Images/test output.txt 2
 
 * You can see output.txt in "GitHub_CNN_Smoothie/scripts/slim", for example.
 
+* If you are going to run predict.py on CPU add os.environ['CUDA_VISIBLE_DEVICES'] = '' before session = tf.Session() in the predict.py.
+
 8) The accuracy can be measured using accuracy measurement codes.
 
 9) The plot can be illustrated using plot illustration codes.
