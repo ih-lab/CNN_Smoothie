@@ -3,9 +3,9 @@ The CNN_Smoothie pipeline presented here provides a novel framework that can be 
 Deep Convolutional Neural Networks Enable Discrimination of Heterogeneous Digital Pathology Images
 
 Pegah Khosravi, Ehsan Kazemi, Marcin Imielinski, Olivier Elemento, Iman Hajirasouliha
-doi: https://doi.org/10.1101/197517
+EBioMedicine (December 2017)
 
-https://www.biorxiv.org/content/early/2017/10/02/197517
+The link to the published journal version: http://dx.doi.org/10.1016/j.ebiom.2017.12.026
 
 The Readme file is divided into two parts:
 
